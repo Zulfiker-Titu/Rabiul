@@ -149,22 +149,6 @@ http://178.128.60.200:80/hls/stream2.m3u8
 http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNgQxzS/images-jpeg-2.jpg" group-title="News",Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-#EXTINF:-1 tvg-logo="https://i.playboard.app/p/AKedOLSk85MQvAZkfRaHL1ZKUvQqVXpQoQPgLWH8suJ9/default.webp" group-title="Assamese or Bengali",Da News Plus
-http://rtmp.smartstream.video:80/danewsplus/danewsplus/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/832842084163858433/dI_xDApA_400x400.jpg" group-title="Assamese",Assam Talk
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1254683172526120961/IrgdRGNg_400x400.jpg" group-title="Assamese",dy365
-http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/796389553535733760/hTrWZPPt_400x400.jpg" group-title="Assamese",News18 Assam
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1222813656448000000/X9Xi0Nkf_400x400.jpg" group-title="Assamese",Pratidin Time
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/962979203439198210/P4Mdl5Du_400x400.jpg" group-title="Assamese",News Live
-https://cdn.pride-east.in:443/smartstream-us/newslivembr/newslivembr.smil/chunklist_w1134718099_b400000.m3u8
-#EXTINF:-1 tvg-logo="https://northeastlivetv.com/wp-content/uploads/2021/02/ne_live_mobile_logo_retina.png" group-title="Assamese",North East
-https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/jonack-tv-channel-logo.jpg" group-title="Assamese",Jonack
-http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Music",ATN Music
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg" group-title="Music",Bangla 21 TV
