@@ -2,13 +2,15 @@
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180402/cte/kisspng-discovery-kids-discovery-channel-television-channe-axe-logo-5ac1dd9023d8e8.7749893515226546081468.jpg" group-title="Entertainment",Discovery Kids
 http://103.55.144.46:80/hls/dis-kid.m3u8 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nick-logo.jpg" group-title="Kids",Nick
-http://103.55.144.46:80/hls/nick.m3u8 
+http://dangguli.live:8080/Nick/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_sonic_us.png" group-title="Kids",Sonic
+http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cartoon-network-logo-png-8.png" group-title="Kids",CN
 http://103.55.144.46:80/hls/cn.m3u8 
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/POGO.png" group-title="Kids",Pogo
 http://103.55.144.46:80/hls/pogo.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_sonic_us.png" group-title="Kids",Sonic
-http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Hungama_India.png" group-title="Kids",Hangama Kids
+http://103.179.246.243:8000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/transformers-character-cardboard-silhouette-bumblebee-advertises-amercian-science-fiction-movie-december-bangkok-134590705.jpg" group-title="Kids",Bumblebee
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Children TV",Duronto TV
