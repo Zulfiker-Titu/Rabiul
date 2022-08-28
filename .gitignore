@@ -18,7 +18,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Children TV",Duronto TV
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV HD
-http://172.16.50.250:8081/live/mystream1/chunks.m3u8
+http://stream.serverbd247.com:80/hls/sky-live.m3u8
 https://tv.kotha.im/GTV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD
 https://tv.kotha.im/TSports_HD/index.m3u8
