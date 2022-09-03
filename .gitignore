@@ -93,7 +93,7 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/Nagorik%20Tv1656563105.png" group-title="Entertainment",Nagorik TV
 http://103.55.144.46:80/hls/nagoriktv.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png" group-title="News",Nexus
+#EXTINF:-1 tvg-logo="https://www.hellobanglaworld.com/wp-content/uploads/2022/02/nexus_television.jpg" group-title="News",Nexus
 https://tv.kotha.im/Nexus_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://creativeeventsbd.com/wp-content/uploads/2019/12/RTV-1.png" group-title="Entertainment",RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
@@ -111,7 +111,7 @@ http://103.55.144.46:80/hls/colorsbangla.m3u8
 http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD
 http://103.55.144.46:80/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nczFLcg/jalshamovies.jpg" group-title="Bangla Movies",Jalsha Movies HD
 http://103.55.144.46:80/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD
 http://103.55.144.46:80/hls/zeebanglahd.m3u8
@@ -157,7 +157,7 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://amarnet.xyz/uploads/tv_image/sm/gaan-bangla-tv.jpg" group-title="Music",Gaan Bangla
 http://208.86.19.13:81/612.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg" group-title="Music",Bangla 21 TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PWJC9pr/Bangla21tv-jpeg.jpg" group-title="Music",Bangla 21 TV
 http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Music",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
@@ -169,7 +169,7 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7kLVkmx/hungama-jpeg.jpg" group-title="Hindi Music",Hungama
 https://live.hungama.com/linear/dhamaal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/10/mastill-sabgrp-logo-2-600x374.jpg group-title="Hindi Music",Mastiii
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DkqFdL3/mastiii.jpg" group-title="Hindi Music",Mastiii
 http://103.55.144.46:80/hls/masti.m3u8
 #EXTINF:-1 tvg-logo="https://content.jdmagicbox.com/comp/bangalore/28/080p5153628/catalogue/zoom-tv-channel-m-g-road-bangalore-1pvp0gar61-t.jpg" group-title="Hindi Music",Zoom
 http://103.55.144.46:80/hls/zoom.m3u8
