@@ -40,7 +40,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg" group-title="Entertainment",Asian TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Entertainment",ATN Bangla
-http://103.55.144.46:80/hls/atn.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Entertainment",ATN Bangla UK
 http://87.212.248.44:60230/play/a05g/index.m3u8
 #EXTINF:-1 tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/bangla-tv-logo.png" group-title="Entertainment",Bangla TV
