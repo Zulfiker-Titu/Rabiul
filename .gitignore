@@ -114,7 +114,7 @@ http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nczFLcg/jalshamovies.jpg" group-title="Bangla Movies",Jalsha Movies HD
 http://103.55.144.46:80/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD
-http://103.55.144.46:80/hls/zeebanglahd.m3u8
+http://172.16.50.2:8082/ZeeBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema
 http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Entertainment",Sun Bangla
