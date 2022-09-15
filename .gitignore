@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180402/cte/kisspng-discovery-kids-discovery-channel-television-channe-axe-logo-5ac1dd9023d8e8.7749893515226546081468.jpg" group-title="Entertainment",Discovery Kids
-http://103.55.144.46:80/hls/dis-kid.m3u8 
+ http://103.162.136.235:4500/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nick-logo.jpg" group-title="Kids",Nick
-http://103.55.144.46:80/hls/nick.m3u8 
+ http://103.162.136.235:4500/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cartoon-network-logo-png-8.png" group-title="Kids",CN
 http://103.55.144.46:80/hls/cn.m3u8 
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/POGO.png" group-title="Kids",Pogo
-http://103.55.144.46:80/hls/pogo.m3u8
+http://103.162.136.235:4500/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/transformers-character-cardboard-silhouette-bumblebee-advertises-amercian-science-fiction-movie-december-bangkok-134590705.jpg" group-title="Kids",Bumblebee
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Children TV",Duronto TV
@@ -24,13 +24,13 @@ http://jupiter.bdcabletv.com/ten_3-enc/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPtGLZg/Sony-Six.png" group-title="Sports",Sony Six
 http://jupiter.bdcabletv.com/SonySixHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-1-logo.jpg" group-title="Sports",Star Sports 1
-http://103.55.144.46:80/hls/stersports1hd.m3u8
+http://103.16.24.54:8080/channel1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-2.jpg" group-title="Sports",Star Sports 2
-http://103.55.144.46:80/hls/starsports2.m3u8
+http://103.162.136.235:4500/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-1.jpg" group-title="Sports",Star Sports Select 1
-http://103.55.144.46:80/hls/Star_Sport_Select1HD.m3u8
+http://103.162.136.235:4500/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-select-hd-2-logo.jpg" group-title="Sports",Star Sports Select 2
-http://103.55.144.46:80/hls/select2.m3u8
+http://103.162.136.235:4500/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/Dubai-Sports.jpg",DUBAI SPORTS
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/Dubai-Sports.jpg",DUBAI SPORTS 2
@@ -114,7 +114,7 @@ http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nczFLcg/jalshamovies.jpg" group-title="Bangla Movies",Jalsha Movies HD
 http://103.55.144.46:80/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD
-http://172.16.50.2:8082/ZeeBanglaHD/index.m3u8
+http://103.16.24.54:8080/channel4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema
 http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Entertainment",Sun Bangla
@@ -124,7 +124,7 @@ http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Entertainment",Amar Bangla
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD
-http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+http://103.162.136.235:4500/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic HD
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/travel-xp-hd-logo.jpg" group-title="Documentary",travel xp HD
@@ -198,7 +198,8 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",Sony Pix HD
-http://103.55.144.46:80/hls/sonypixhd.m3u8
+http://103.16.24.54:8080/channel2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",HBO
