@@ -176,21 +176,21 @@ http://103.55.144.46:80/hls/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201905/kadak-hai-boss.jpg" group-title="Hindi",B4u Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-tv-hd-logo.jpg" group-title="Hindi",Colors HD
-http://103.55.144.46/hls/colore-tv-hd.m3u8
+http://208.86.19.13:81/204.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/160x0-icon.png" group-title="Hindi",Colors Cineplex HD
 http://103.55.144.46:80/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif" group-title="Hindi",Sony Entertainment HD
-http://103.55.144.46:80/hls/sonyen.m3u8
+http://jupiter.bdcabletv.com:80/SonyTV_ENC/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sony-MAX-HD-Logo.png" group-title="Hindi",Sony Max HD
-http://103.55.144.46:80/hls/sony-maxhd.m3u8
+http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-F6jn5K3gVZ4/WBdCVj7kPvI/AAAAAAAAKJ8/vHKTIFS5ywgm_SEVla19SMDkznTxkG0PwCLcB/s1600/star-plus-tv-serials-list-schedule-trp-rating-2016-new-upcoming-tv-relaity-shows-mt-wiki.png" group-title="Hindi",Star Plus HD
-http://103.55.144.46:80/hls/starplus.m3u8
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-gold-hd-logo.jpg" group-title="Hindi",Star Gold HD
-http://103.55.144.46:80/hls/stargold.m3u8
+http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-tv-hd-logo.jpg" group-title="Hindi",Zee TV HD
-http://103.55.144.46:80/hls/zeetv.m3u8
+http://103.162.136.235:4500/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-cinema-hd-logo.jpg" group-title="Hindi",ZEE CINEMA HD
-http://103.55.144.46:80/hls/zeecinemahd.m3u8
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Food",Asian Food Network
 https://vips-livecdn.fptplay.net/hda1/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English Movies",Star World
