@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180402/cte/kisspng-discovery-kids-discovery-channel-television-channe-axe-logo-5ac1dd9023d8e8.7749893515226546081468.jpg" group-title="Entertainment",Discovery Kids
- http://103.162.136.235:4500/play/a01j/index.m3u8
+http://103.162.136.235:4500/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nick-logo.jpg" group-title="Kids",Nick
- http://103.162.136.235:4500/play/a01f/index.m3u8
+http://103.162.136.235:4500/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cartoon-network-logo-png-8.png" group-title="Kids",CN
- http://iptv.prosto.tv:7000/ch207/video.m3u8
+http://iptv.prosto.tv:7000/ch207/video.m3u8
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/POGO.png" group-title="Kids",Pogo
 http://103.162.136.235:4500/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/transformers-character-cardboard-silhouette-bumblebee-advertises-amercian-science-fiction-movie-december-bangkok-134590705.jpg" group-title="Kids",Bumblebee
