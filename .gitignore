@@ -131,11 +131,11 @@ http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/87312.ts
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic HD
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/travel-xp-hd-logo.jpg" group-title="Documentary",travel xp HD
-http://103.55.144.46:80/hls/travelxp.m3u8
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87266
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD
-http://103.55.144.46:80/hls/animalplanent.m3u8
+http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/203112.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC HD
-http://103.162.136.235:4500/play/a001/46171919.m3u8
+http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/77382.ts
 #EXTINF:-1 tvg-logo="https://www.tbn24.com/public/website_logo.png" group-title="Entertainment",TBN 24 USA
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://rplus.in/wp-content/uploads/2019/01/mobile-logo-rplus-news.png" group-title="News",R Plus News
