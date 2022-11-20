@@ -1,30 +1,34 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180402/cte/kisspng-discovery-kids-discovery-channel-television-channe-axe-logo-5ac1dd9023d8e8.7749893515226546081468.jpg" group-title="Entertainment",Discovery Kids
-http://103.162.136.235:4500/play/a01j/index.m3u8
+http://223.29.231.66:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nick-logo.jpg" group-title="Kids",Nick
-http://103.162.136.235:4500/play/a01f/index.m3u8
+http://223.29.231.66:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cartoon-network-logo-png-8.png" group-title="Kids",CN
-http://iptv.prosto.tv:7000/ch207/video.m3u8
+http://223.29.231.66:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/POGO.png" group-title="Kids",Pogo
-http://103.162.136.235:4500/play/a01i/index.m3u8
+http://223.29.231.66:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Children TV",Duronto TV
 https://tv.kotha.im/Duronto_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV HD
 http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
+http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD
 http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
+http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="Sports",Sony Ten 1
-http://45.127.244.7:8080/hls/channel4.m3u8
+http://45.127.244.7:8080/hls/channel5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="Sports",Sony Ten 2
 http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="Sports",Sony Ten 3
 http://jupiter.bdcabletv.com/ten_3-enc/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="Sports",Sony Ten 5
+http://45.127.244.7:8080/hls/channel4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPtGLZg/Sony-Six.png" group-title="Sports",Sony Six
 http://jupiter.bdcabletv.com/SonySixHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-1-logo.jpg" group-title="Sports",Star Sports 1
-http://103.16.24.54:8080/channel1/index.m3u8
+http://45.127.244.7:8080/hls/channel7.m3u8
 #EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-2.jpg" group-title="Sports",Star Sports 2
-http://103.162.136.235:4500/play/a016/index.m3u8
+http://45.127.244.7:8080/hls/channel6.m3u8
 #EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-1.jpg" group-title="Sports",Star Sports Select 1
 http://103.162.136.235:4500/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-select-hd-2-logo.jpg" group-title="Sports",Star Sports Select 2
@@ -37,9 +41,9 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_b-3sUWvT0s/X1eGck6cC3I/AAAAAAAAGsM/pkXJcRCORYIDAR0zoHKu5bAnjyIKgo_FQCLcBGAsYHQ/s1600/Ad%2BSports.jpg",Abu Dubai Sports
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-Sharjah Sports
+#EXTINF:-1 tvg-logo="https://sba.net.ae/public/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-Oman Sports
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2021/02/oman-sport.png.webp",Oman Sports
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VBChH4J/ANANDA.jpg" group-title="Bangla Movies",Ananda TV
 http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
