@@ -22,6 +22,8 @@ http://103.197.204.248:80/s-2-gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD
 http://103.197.204.248:80/s-1-tsports/index.m3u8
 http://dotfli.live/s-1-tsports/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-tyc-sports-internacional-cl-1246.png" group-title="Sports",TyC Sports
 http://tv.maguraplex.net:8000/live/tyc/index.m3u8
 #EXTINF:-1 tvg-logo="https://ptvlivesports.com/wp-content/uploads/2022/03/ptv-2.png" group-title="Sports",PTV Sports
