@@ -132,21 +132,18 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-http://jupiter.bdcabletv.com/Sony_A_ath/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/10/colorsbangla-696x464.jpg" group-title="Entertainment",Colors Bangla HD
-http://208.86.19.13:81/616.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/10/colorsbangla-696x464.jpg" group-title="Entertainment",Colors Bangla
+http://103.213.238.70:80/ColorsBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8QYP1L/Colors-Bangla-Cinema.jpg" group-title="Entertainment",Colors Bangla Cinema
-http://208.86.19.13:81/907.stream/index.m3u8
+https://tv.googledrivelinks.com/live.php?c=Colors_Bangla_Cinema&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD
-http://103.16.24.54:8080/channel5/index.m3u8
-http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
+http://103.213.238.70:80/StarJalshaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nczFLcg/jalshamovies.jpg" group-title="Bangla Movies",Jalsha Movies HD
-http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD
-http://103.16.24.54:8080/channel4/index.m3u8
-http://jupiter.bdcabletv.com/Zee_Bangla_HD/video.m3u8
+http://103.213.238.70:80/Jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla
+http://103.213.238.70:80/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema
-http://208.86.19.13:81/708.stream/index.m3u8
+https://tv.googledrivelinks.com/live.php?c=Zee_Bangla_Cinema&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Entertainment",Sun Bangla
 http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/82983.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/R-plus-gold.jpg" group-title="Entertainment",R Plus Gold
