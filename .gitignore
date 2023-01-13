@@ -21,11 +21,7 @@ http://live.hoihulloor.com:80/live/voya1002/index.m3u8
 http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 http://103.197.204.248:80/s-2-gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD
-http://live.hoihulloor.com:80/live/fcfun1000/index.m3u8
-http://live.hoihulloor.com:80/live/voya1001/index.m3u8
-http://live.hoihulloor.com:80/live/hull1000/index.m3u8
-http://103.197.204.248:80/s-1-tsports/index.m3u8
-http://dotfli.live/s-1-tsports/tracks-v2a1/mono.m3u8
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-tyc-sports-internacional-cl-1246.png" group-title="Sports",TyC Sports
@@ -119,7 +115,7 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="News",News 24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/Nagorik%20Tv1656563105.png" group-title="Entertainment",Nagorik TV
-http://103.55.144.46:80/hls/nagoriktv.m3u8
+http://live.hoihulloor.com:80/live/voya1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hellobanglaworld.com/wp-content/uploads/2022/02/nexus_television.jpg" group-title="News",Nexus
 https://tv.kotha.im/Nexus_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://creativeeventsbd.com/wp-content/uploads/2019/12/RTV-1.png" group-title="Entertainment",RTV
