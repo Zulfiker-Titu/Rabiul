@@ -9,7 +9,7 @@ http://223.29.231.66:8000/play/a01t/index.m3u8
 http://223.29.231.66:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Children TV",Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/41xBDgM/download-jpeg.jpg" group-title="Entertainment",Toffee LIVE
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dL6CqdR/Sports18.png" group-title="Entertainment",Sports 18 LIVE
 http://tv.maguraplex.net:8000/live/sports18/index.m3u8
@@ -17,10 +17,10 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV HD Live
 http://103.168.91.228:80/LIVE1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV HD
-http://live.hoihulloor.com:80/live/voya1002/index.m3u8
 http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 http://103.197.204.248:80/s-2-gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD
+http://live.hoihulloor.com:80/live/voya1002/index.m3u8
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
