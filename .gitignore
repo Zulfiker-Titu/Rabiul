@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180402/cte/kisspng-discovery-kids-discovery-channel-television-channe-axe-logo-5ac1dd9023d8e8.7749893515226546081468.jpg" group-title="Entertainment",Discovery Kids
-http://223.29.231.66:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nick-logo.jpg" group-title="Kids",Nick
-http://223.29.231.66:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cartoon-network-logo-png-8.png" group-title="Kids",CN
-http://223.29.231.66:8000/play/a01t/index.m3u8
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brfLSf9W/Sony-Yay-new.png" group-title="Kids",Sony YAY
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/e383aa93898487.Y3JvcCwxMzgwLDEwODAsMjk3LDA.png" group-title="Kids",Ani Plus
+http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/POGO.png" group-title="Kids",Pogo
-http://223.29.231.66:8000/play/a020/index.m3u8
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Children TV",Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/41xBDgM/download-jpeg.jpg" group-title="Entertainment",Toffee LIVE
@@ -146,18 +146,18 @@ http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/82983.ts
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Entertainment",Amar Bangla
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery
-https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/11/Fox-Life-HD.png" group-title="Documentary",Fox Life HD
 http://103.162.136.235:4500/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/travel-xp-hd-logo.jpg" group-title="Documentary",travel xp HD
 http://50.7.237.4:8080/TRAVELXPHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD
-http://50.7.237.4:8080/ANIMALPLANET/index.m3u8
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic HD
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC
-http://50.7.237.4:8080/TLC/index.m3u8
+https://varun-iptv.netlify.app/m3u/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://www.tbn24.com/public/website_logo.png" group-title="Entertainment",TBN 24 USA
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://rplus.in/wp-content/uploads/2019/01/mobile-logo-rplus-news.png" group-title="News",R Plus News
